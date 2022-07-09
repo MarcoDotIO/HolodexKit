@@ -1,0 +1,234 @@
+[
+  {
+    "id": "GfwOd177FBg",
+    "title": "【風のクロノア1&2アンコール】みんなでわっふー! door to phantomile【ホロライブ/白上フブキ】",
+    "type": "stream",
+    "published_at": "2022-07-07T07:37:27.000Z",
+    "available_at": "2022-07-07T11:29:48.000Z",
+    "duration": 0,
+    "status": "live",
+    "start_scheduled": "2022-07-07T11:30:00.000Z",
+    "start_actual": "2022-07-07T11:29:48.000Z",
+    "live_viewers": 5442,
+    "channel": {
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "name": "フブキCh。白上フブキ",
+      "org": "Hololive",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AKedOLQdiN_0b5mfCHcwmIbRZKvpwowneYzu9xL0oCBBMw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirakami Fubuki"
+    }
+  },
+  {
+    "id": "njASutkWHS4",
+    "title": "『BIOHAZARD RE:2』バイオハザード RE:2 クレアクリアするまで終われまテン!!! /  Astel Leda",
+    "type": "stream",
+    "topic_id": "residentevil",
+    "published_at": "2022-07-07T11:16:39.000Z",
+    "available_at": "2022-07-07T11:34:39.000Z",
+    "duration": 0,
+    "status": "live",
+    "start_scheduled": "2022-07-07T11:30:00.000Z",
+    "start_actual": "2022-07-07T11:34:39.000Z",
+    "live_viewers": 571,
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "9VyJhnNRdv0",
+    "title": "【風のクロノア】生まれてはじめてのクロノア!遊ぶ~~!✨【猫又おかゆ/ホロライブ】※ネタバレあり",
+    "type": "stream",
+    "published_at": "2022-07-07T08:00:15.000Z",
+    "available_at": "2022-07-07T12:00:09.000Z",
+    "duration": 0,
+    "status": "live",
+    "start_scheduled": "2022-07-07T12:00:00.000Z",
+    "start_actual": "2022-07-07T12:00:09.000Z",
+    "live_viewers": 4900,
+    "channel": {
+      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+      "name": "Okayu Ch. 猫又おかゆ",
+      "org": "Hololive",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AKedOLTBrp9cAeaFT4Yq9DVne54QYANyrhNv8Kd6NR7N7w=s800-c-k-c0x00ffffff-no-rj-mo",
+      "english_name": "Nekomata Okayu"
+    }
+  },
+  {
+    "id": "Fe3C-oWfajI",
+    "title": "【Minecraft】 Huh? Adventure with @Kaela Kovalskia Ch. hololive-ID ?【GeeMoon】",
+    "type": "stream",
+    "topic_id": "minecraft",
+    "published_at": "2022-07-07T09:11:47.000Z",
+    "available_at": "2022-07-07T12:59:30.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 41
+    },
+    "start_scheduled": "2022-07-07T13:00:00.000Z",
+    "start_actual": "2022-07-07T12:59:30.000Z",
+    "live_viewers": 3318,
+    "recent_live_tls": [
+      "en"
+    ],
+    "channel": {
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID",
+      "org": "Hololive",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AKedOLRaHP1Qoi3zFxbQYdbX4MNnV18TrqjFBwDxgTlNqg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Moona Hoshinova"
+    }
+  },
+  {
+    "id": "ELW37nfDjpI",
+    "title": "【Minecraft】underground, IKZ!【Kaela x Moona / hololive ID】",
+    "type": "stream",
+    "topic_id": "minecraft",
+    "published_at": "2022-07-07T11:08:00.000Z",
+    "available_at": "2022-07-07T13:01:04.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 11
+    },
+    "start_scheduled": "2022-07-07T13:00:00.000Z",
+    "start_actual": "2022-07-07T13:01:04.000Z",
+    "live_viewers": 4457,
+    "recent_live_tls": [
+      "en"
+    ],
+    "channel": {
+      "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+      "name": "Kaela Kovalskia Ch. hololive-ID",
+      "org": "Hololive",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/PxkGgLvMEUgmme35T0VPLR8d5brJw4YTzJC5PE48mkYRdy-mq8FsKv_Sy-bJmxqvlgtitqMWtg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kaela Kovalskia"
+    }
+  },
+  {
+    "id": "g4D_pdGIZnk",
+    "title": "150万人見守り配信🎵みんないつもありがとうございます!にぇ🌸【ホロライブ/さくらみこ】",
+    "type": "stream",
+    "published_at": "2022-07-06T22:33:17.000Z",
+    "available_at": "2022-07-07T13:01:38.000Z",
+    "duration": 0,
+    "status": "live",
+    "start_scheduled": "2022-07-07T13:00:00.000Z",
+    "start_actual": "2022-07-07T13:01:38.000Z",
+    "live_viewers": 11981,
+    "channel": {
+      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+      "name": "Miko Ch. さくらみこ",
+      "org": "Hololive",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AKedOLSbBntfDXMdVKKj7E0dBuTHIvl4rhXvCDyuCaVpTA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakura Miko"
+    }
+  },
+  {
+    "id": "uV0a6tCa8SI",
+    "title": "【Supareading】Supadonoreading and Some Chatting!【hololive Indonesia 2nd Generation】",
+    "type": "stream",
+    "topic_id": "Superchat_Reading",
+    "published_at": "2022-07-07T11:42:44.000Z",
+    "available_at": "2022-07-07T13:31:11.000Z",
+    "duration": 0,
+    "status": "live",
+    "start_scheduled": "2022-07-07T13:30:00.000Z",
+    "start_actual": "2022-07-07T13:31:11.000Z",
+    "live_viewers": 532,
+    "channel": {
+      "id": "UC727SQYUvx5pDDGQpTICNWg",
+      "name": "Anya Melfissa Ch. hololive-ID",
+      "org": "Hololive",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AKedOLR0AplPQyxSjGhqMxJy7vAvXn-9hyaiXBoBE5vy=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Anya Melfissa"
+    }
+  },
+  {
+    "id": "n-S2RFRGK3A",
+    "title": "【#叶えてころさん】告知アリ★七夕なので、天女が願い事を聞きに来ました!2022【ホロライブ/戌神ころね】",
+    "type": "stream",
+    "published_at": "2022-07-06T14:49:22.000Z",
+    "available_at": "2022-07-07T14:00:05.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 104
+    },
+    "start_scheduled": "2022-07-07T14:00:00.000Z",
+    "start_actual": "2022-07-07T14:00:05.000Z",
+    "live_viewers": 21912,
+    "recent_live_tls": [
+      "en"
+    ],
+    "channel": {
+      "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+      "name": "Korone Ch. 戌神ころね",
+      "org": "Hololive",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AKedOLTGCZfOdpj8vnNV4hbPvxJrlbERhgBWnBrWKbS5WQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Inugami Korone"
+    }
+  },
+  {
+    "id": "mXYIY1N8HHY",
+    "title": "【 KARAOKE 】July Karaoke~! SSR KARAOKE STREAM【 iofi / ホロライブ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2022-07-06T17:16:18.000Z",
+    "available_at": "2022-07-07T14:00:40.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 72,
+      "id": 48
+    },
+    "start_scheduled": "2022-07-07T14:00:00.000Z",
+    "start_actual": "2022-07-07T14:00:40.000Z",
+    "live_viewers": 2289,
+    "recent_live_tls": [
+      "en",
+      "id"
+    ],
+    "channel": {
+      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+      "name": "Airani Iofifteen Channel hololive-ID",
+      "org": "Hololive",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Airani Iofifteen"
+    }
+  },
+  {
+    "id": "KD1spjn00ME",
+    "title": "【雑談】謎解きゲームしてきた!雑談とSuperchat Reading!【角巻わため/ホロライブ4期生】",
+    "type": "stream",
+    "topic_id": "Superchat_Reading",
+    "published_at": "2022-07-07T10:15:04.000Z",
+    "available_at": "2022-07-07T14:00:55.000Z",
+    "duration": 0,
+    "status": "live",
+    "start_scheduled": "2022-07-07T14:00:00.000Z",
+    "start_actual": "2022-07-07T14:00:55.000Z",
+    "live_viewers": 6193,
+    "channel": {
+      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+      "name": "Watame Ch. 角巻わため",
+      "org": "Hololive",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yyc42nbIa5iEVfpBUf5nxUb02ljS-C2tOSYNUiKzBHrnYwYTUdOrIpUfc1EcPLJoG2C4AXOV9Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tsunomaki Watame"
+    }
+  }
+]

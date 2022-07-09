@@ -1,0 +1,38 @@
+[
+    {
+        "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+        "name": "HAACHAMA Ch 赤井はあと",
+        "english_name": "Akai Haato",
+        "type": "vtuber",
+        "org": "Hololive",
+        "group": "1st Generation",
+        "photo": "https://yt3.ggpht.com/B2tq3IQAFxUe9W3MaMc0V62bmlTWCSoTuCk-Y-Ab8yXkZKdIswQhHABZhz2e4YM1-B_Kxen_7w=s800-c-k-c0x00ffffff-no-rj",
+        "twitter": "akaihaato",
+        "video_count": "797",
+        "subscriber_count": "1370000",
+        "clip_count": 4924,
+        "top_topics": [
+          "minecraft",
+          "singing",
+          "Cooking_Stream"
+        ]
+    },
+    {
+      "id": "UC1DCedRgGHBdm81E1llLhOQ",
+      "name": "Pekora Ch. 兎田ぺこら",
+      "english_name": "Usada Pekora",
+      "type": "vtuber",
+      "org": "Hololive",
+      "group": "3rd Generation",
+      "photo": "https://yt3.ggpht.com/ytc/AKedOLQQK7jpsudTTDO1JA4mnwyUCCDY5YSzxQrmNEeb7Q=s800-c-k-c0x00ffffff-no-rj",
+      "twitter": "usadapekora",
+      "video_count": "985",
+      "subscriber_count": "1960000",
+      "clip_count": 18836,
+      "top_topics": [
+        "minecraft",
+        "Dragon_Quest",
+        "ark"
+      ]
+    }
+]

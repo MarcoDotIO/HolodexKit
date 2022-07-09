@@ -1,0 +1,28 @@
+[
+  {
+    "id": "n-S2RFRGK3A",
+    "title": "【#叶えてころさん】告知アリ★七夕なので、天女が願い事を聞きに来ました!2022【ホロライブ/戌神ころね】",
+    "type": "stream",
+    "published_at": "2022-07-06T14:49:22.000Z",
+    "available_at": "2022-07-07T14:00:05.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 57
+    },
+    "start_scheduled": "2022-07-07T14:00:00.000Z",
+    "start_actual": "2022-07-07T14:00:05.000Z",
+    "live_viewers": 35932,
+    "recent_live_tls": [
+      "en"
+    ],
+    "channel": {
+      "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+      "name": "Korone Ch. 戌神ころね",
+      "org": "Hololive",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AKedOLTGCZfOdpj8vnNV4hbPvxJrlbERhgBWnBrWKbS5WQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Inugami Korone"
+    }
+  }
+]
