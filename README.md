@@ -120,4 +120,4 @@ I would like to personally thank the [Holodex Team](https://twitter.com/holodex)
 
 ## License
 
-HolodexKit is released under the MIT license, and any use of the production server will be under the [License](https://holodex.stoplight.io/docs/holodex/8166fcec5dbe2-license) set by the Holodex Team. [See LICENSE](https://github.com/marcodotio/HolodexKit/blob/master/LICENSE) for details.
+HolodexKit is released under the MIT license, and any use of the production server will be under the [License](https://holodex.stoplight.io/docs/holodex/8166fcec5dbe2-license) set by the Holodex Team. [See LICENSE](https://github.com/MarcoDotIO/HolodexKit/blob/main/LICENSE) for details.
