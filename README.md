@@ -33,6 +33,7 @@ HolodexKit is an API for the Holodex REST endpoint.
 
 ## ToDo
 
+- [ ] Add Continuous Integration using Github Actions.
 - [ ] Endpoint search for Videos of VTubers and subbers.
 - [ ] Endpoint search for Comments from Videos of VTubers and subbers.
 - [ ] Complete documentation of HolodexKit.
