@@ -56,7 +56,7 @@ The [Swift Package Manager](https://swift.org/package-manager/) allows for devel
 * Add `https://github.com/marcodotio/HolodexKit.git`
 * Select "Up to next Major" with "1.0.0"
 
-### SPM Through Xcode Package
+#### SPM Through Xcode Package
 
 Once you have your Swift package set up, add the Git link within the `dependencies` value of your `Package.swift` file.
 
