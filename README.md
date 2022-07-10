@@ -33,6 +33,7 @@ HolodexKit is an API for the Holodex REST endpoint.
 
 ## ToDo
 
+- [ ] Add Continuous Integration using Github Actions.
 - [ ] Endpoint search for Videos of VTubers and subbers.
 - [ ] Endpoint search for Comments from Videos of VTubers and subbers.
 - [ ] Complete documentation of HolodexKit.
@@ -55,7 +56,7 @@ The [Swift Package Manager](https://swift.org/package-manager/) allows for devel
 * Add `https://github.com/marcodotio/HolodexKit.git`
 * Select "Up to next Major" with "1.0.0"
 
-### SPM Through Xcode Package
+#### SPM Through Xcode Package
 
 Once you have your Swift package set up, add the Git link within the `dependencies` value of your `Package.swift` file.
 
@@ -119,4 +120,4 @@ I would like to personally thank the [Holodex Team](https://twitter.com/holodex)
 
 ## License
 
-HolodexKit is released under the MIT license, and any use of the production server will be under the [License](https://holodex.stoplight.io/docs/holodex/8166fcec5dbe2-license) set by the Holodex Team. [See LICENSE](https://github.com/marcodotio/HolodexKit/blob/master/LICENSE) for details.
+HolodexKit is released under the MIT license, and any use of the production server will be under the [License](https://holodex.stoplight.io/docs/holodex/8166fcec5dbe2-license) set by the Holodex Team. [See LICENSE](https://github.com/MarcoDotIO/HolodexKit/blob/main/LICENSE) for details.
