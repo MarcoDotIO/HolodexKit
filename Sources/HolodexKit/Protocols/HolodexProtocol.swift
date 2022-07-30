@@ -39,7 +39,7 @@ public protocol HolodexProtocol {
     /// Fetch videos from a specified Channel using the Channel's ID, the type of video of `VideoSearchType`,
     /// and a `VideoParameter`. This will return an optional array of `VideoFull`.
     /// - Parameters:
-    ///   - channelId:A `String` that corresponds to the YouTube Channel ID of the Channel.
+    ///   - channelId: A `String` that corresponds to the YouTube Channel ID of the Channel.
     ///   - searchType: A `VideoSearchType` enum that can either be a video, clip, or collab.
     ///   - params: A `VideoParameter` that inputs a specified query for the endpoint.
     /// - Returns: An optional array of `VideoFull`.
